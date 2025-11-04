@@ -1,0 +1,4 @@
+.env
+SETUP.md
+node_modules
+dist
